@@ -1,0 +1,10 @@
+.env
+*.db
+.venv/
+__pycache__/
+.pytest_cache/
+node_modules/
+dist/
+e2e/screenshots/
+.DS_Store
+*.log
